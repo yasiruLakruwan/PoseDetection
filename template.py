@@ -8,7 +8,7 @@ lists_to_genarate = [
     Path("src/vision/feature_extractor.py"),
     Path("src/state_machine/states.py"),
     Path("src/state_machine/activity_fsm.py"),
-    Path("src/agent/states.py"),
+    Path("src/agent/memory.py"),
     Path("config/settings.py"),
     Path("src/logger.py"),
     Path("src/custom_exeption.py"),

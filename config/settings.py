@@ -1,0 +1,12 @@
+VIDEO_PATH ="data/raw/Untitled design (1).mp4"
+BED_ROI = (
+    650,
+    300,
+    1500,
+    850
+)
+LYING_ANGLE_THRESHOLD = 25
+
+SITTING_ANGLE_THRESHOLD = 60
+
+WALKING_SPEED_THRESHOLD = 10

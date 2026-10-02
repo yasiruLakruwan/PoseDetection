@@ -1,0 +1,18 @@
+from enum import Enum
+
+
+class ActivityState(Enum):
+
+    LYING_IN_BED = "LYING_IN_BED"
+
+    SITTING_ON_BED = "SITTING_ON_BED"
+
+    SITTING_OUTSIDE_BED = "SITTING_OUTSIDE_BED"
+
+    STANDING = "STANDING"
+
+    WALKING = "WALKING"
+
+    OUT_OF_BED = "OUT_OF_BED"
+
+    UNKNOWN = "UNKNOWN"
